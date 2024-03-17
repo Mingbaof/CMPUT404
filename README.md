@@ -1,12 +1,5 @@
-# myWeb
+# Web Applications and Architecture
 
-- This is a small web built with Django framework with Python.
+- This is my course work for CMPUT 404
 
-# Quick start:
-Run the following Python scripts:
 
- ```bash
- python3 manage.py makemigrations 
- python3 manage.py migrate
- python3 manage.py runserver
- ```
